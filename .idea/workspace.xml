@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="413b592d-6942-4360-9e63-3d26aa8d40c6" name="Default" comment="" />
+    <list default="true" id="413b592d-6942-4360-9e63-3d26aa8d40c6" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bootstrap_Completed/8.Bootstrap breakpoints.html" afterPath="$PROJECT_DIR$/Bootstrap_Completed/8.Bootstrap breakpoints.html" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,23 +16,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="7_breakpoints.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Bootstrap_4_Starter_Template/7_breakpoints.html">
+      <file leaf-file-name="8_buttons.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Bootstrap_4_Starter_Template/8_buttons.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="985">
-              <caret line="65" column="0" lean-forward="true" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+            <state relative-caret-position="292">
+              <caret line="52" column="55" lean-forward="false" selection-start-line="52" selection-start-column="55" selection-end-line="52" selection-end-column="55" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="8.Bootstrap breakpoints.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Bootstrap_Completed/8.Bootstrap breakpoints.html">
+      <file leaf-file-name="9.Bootstrap Buttons.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Bootstrap_Completed/9.Bootstrap Buttons.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="509">
+              <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
               <folding>
-                <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="e#1011#1015#0#HTML" expanded="true" />
+                <element signature="e#1016#1020#0#HTML" expanded="true" />
+                <element signature="e#1220#1224#0#HTML" expanded="true" />
+                <element signature="e#1230#1234#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -77,6 +82,7 @@
         <option value="$PROJECT_DIR$/Bootstrap_Completed/7.Width-height.html" />
         <option value="$PROJECT_DIR$/Bootstrap_Completed/Bootstrap/8.Bootstrap breakpoints.html" />
         <option value="$PROJECT_DIR$/Bootstrap_Completed/8.Bootstrap breakpoints.html" />
+        <option value="$PROJECT_DIR$/Bootstrap_Completed/9.Bootstrap Buttons.html" />
       </list>
     </option>
   </component>
@@ -121,12 +127,6 @@
               <item name="Bootstrap_4_Development" type="b2602c69:ProjectViewProjectNode" />
               <item name="Bootstrap_4_Development" type="462c0819:PsiDirectoryNode" />
               <item name="Bootstrap_Completed" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Bootstrap_4_Development" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Bootstrap_4_Development" type="462c0819:PsiDirectoryNode" />
-              <item name="Bootstrap_Completed" type="462c0819:PsiDirectoryNode" />
-              <item name="Bootstrap" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -173,12 +173,12 @@
       <workItem from="1534425789788" duration="1913000" />
       <workItem from="1534482989843" duration="1118000" />
       <workItem from="1534501541806" duration="5645000" />
-      <workItem from="1534513880320" duration="11526000" />
+      <workItem from="1534513880320" duration="12910000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22356000" />
+    <option name="totallyTimeSpent" value="23740000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -242,14 +242,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="309">
           <caret line="82" column="7" lean-forward="true" selection-start-line="82" selection-start-column="7" selection-end-line="82" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Bootstrap_4_Starter_Template/8_buttons.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="52" column="55" lean-forward="false" selection-start-line="52" selection-start-column="55" selection-end-line="52" selection-end-column="55" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -360,6 +352,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap_Completed/8.Bootstrap breakpoints.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="7" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Bootstrap_4_Starter_Template/7_breakpoints.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="985">
@@ -368,12 +368,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Bootstrap_Completed/8.Bootstrap breakpoints.html">
+    <entry file="file://$PROJECT_DIR$/Bootstrap_4_Starter_Template/8_buttons.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="292">
+          <caret line="52" column="55" lean-forward="false" selection-start-line="52" selection-start-column="55" selection-end-line="52" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap_Completed/9.Bootstrap Buttons.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
           <folding>
-            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#1011#1015#0#HTML" expanded="true" />
+            <element signature="e#1016#1020#0#HTML" expanded="true" />
+            <element signature="e#1220#1224#0#HTML" expanded="true" />
+            <element signature="e#1230#1234#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>

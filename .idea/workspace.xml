@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="413b592d-6942-4360-9e63-3d26aa8d40c6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bootstrap_4_Starter_Template/1_basic_typography.html" afterPath="$PROJECT_DIR$/Bootstrap_4_Starter_Template/1_basic_typography.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bootstrap_4_Starter_Template/2_text_alignment_display.html" afterPath="$PROJECT_DIR$/Bootstrap_4_Starter_Template/2_text_alignment_display.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bootstrap_4_Starter_Template/3_floats_position.html" afterPath="$PROJECT_DIR$/Bootstrap_4_Starter_Template/3_floats_position.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bootstrap_4_Starter_Template/4_colors_background.html" afterPath="$PROJECT_DIR$/Bootstrap_4_Starter_Template/4_colors_background.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bootstrap_4_Starter_Template/5_spacing.html" afterPath="$PROJECT_DIR$/Bootstrap_4_Starter_Template/5_spacing.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bootstrap_4_Starter_Template/6_sizing.html" afterPath="$PROJECT_DIR$/Bootstrap_4_Starter_Template/6_sizing.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bootstrap_4_Starter_Template/7_breakpoints.html" afterPath="$PROJECT_DIR$/Bootstrap_4_Starter_Template/7_breakpoints.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bootstrap_4_Starter_Template/8_buttons.html" afterPath="$PROJECT_DIR$/Bootstrap_4_Starter_Template/8_buttons.html" />
-    </list>
+    <list default="true" id="413b592d-6942-4360-9e63-3d26aa8d40c6" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -24,44 +14,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="8_buttons.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Bootstrap_4_Starter_Template/8_buttons.html">
+      <file leaf-file-name="3.Text-align.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Bootstrap_Completed/3.Text-align.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="52" column="55" lean-forward="false" selection-start-line="52" selection-start-column="55" selection-end-line="52" selection-end-column="55" />
+            <state relative-caret-position="476">
+              <caret line="28" column="33" lean-forward="false" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2.Bootstrap_typography.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Bootstrap_Completed/2.Bootstrap_typography.html">
+      <file leaf-file-name="2_text_alignment_display.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Bootstrap_4_Starter_Template/2_text_alignment_display.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="526">
-              <caret line="49" column="7" lean-forward="true" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="1_basic_typography.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Bootstrap_4_Starter_Template/1_basic_typography.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="121">
-              <caret line="44" column="46" lean-forward="true" selection-start-line="44" selection-start-column="46" selection-end-line="44" selection-end-column="46" />
+            <state relative-caret-position="342">
+              <caret line="68" column="56" lean-forward="true" selection-start-line="68" selection-start-column="56" selection-end-line="68" selection-end-column="56" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Bootstrap_4_Starter_Template/bootstrap/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -98,6 +68,8 @@
         <option value="$PROJECT_DIR$/Bootstrap_4_Starter_Template/7_breakpoints.html" />
         <option value="$PROJECT_DIR$/Bootstrap_4_Starter_Template/8_buttons.html" />
         <option value="$PROJECT_DIR$/Bootstrap_Completed/2.Bootstrap_typography.html" />
+        <option value="$PROJECT_DIR$/Bootstrap_Completed/Bootstrap/3.Text-align.html" />
+        <option value="$PROJECT_DIR$/Bootstrap_Completed/3.Text-align.html" />
       </list>
     </option>
   </component>
@@ -107,7 +79,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="23" />
     <option name="y" value="4" />
     <option name="width" value="1346" />
@@ -141,11 +113,6 @@
               <item name="Bootstrap_4_Development" type="462c0819:PsiDirectoryNode" />
               <item name="Bootstrap_4_Starter_Template" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Bootstrap_4_Development" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Bootstrap_4_Development" type="462c0819:PsiDirectoryNode" />
-              <item name="Bootstrap_Completed" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -159,6 +126,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="X:\Bootstrap_4_Development\Bootstrap_Completed" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -186,15 +158,15 @@
       <workItem from="1534425789788" duration="1913000" />
       <workItem from="1534482989843" duration="1118000" />
       <workItem from="1534501541806" duration="5645000" />
-      <workItem from="1534513880320" duration="3037000" />
+      <workItem from="1534513880320" duration="4523000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13867000" />
+    <option name="totallyTimeSpent" value="15353000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2544643" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -244,20 +216,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Bootstrap-practice/abc.html" />
     <entry file="file://$PROJECT_DIR$/New folder/abc.html" />
-    <entry file="file://$PROJECT_DIR$/Bootstrap_Completed/1.hello_world.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="27" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Bootstrap_4_Starter_Template/2_text_alignment_display.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="61" column="10" lean-forward="true" selection-start-line="61" selection-start-column="10" selection-end-line="61" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Bootstrap_4_Starter_Template/3_floats_position.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -293,18 +251,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Bootstrap_4_Starter_Template/bootstrap/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Bootstrap_4_Starter_Template/8_buttons.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="292">
           <caret line="52" column="55" lean-forward="false" selection-start-line="52" selection-start-column="55" selection-end-line="52" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap_Completed/2.Bootstrap_typography.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="49" column="7" lean-forward="true" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -314,16 +272,42 @@
         <state relative-caret-position="121">
           <caret line="44" column="46" lean-forward="true" selection-start-line="44" selection-start-column="46" selection-end-line="44" selection-end-column="46" />
           <folding>
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Bootstrap_Completed/2.Bootstrap_typography.html">
+    <entry file="file://$PROJECT_DIR$/Bootstrap_4_Starter_Template/bootstrap/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="526">
-          <caret line="49" column="7" lean-forward="true" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="7" />
+        <state relative-caret-position="85">
+          <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap_Completed/1.hello_world.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="27" lean-forward="false" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap_Completed/3.Text-align.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="33" lean-forward="false" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap_4_Starter_Template/2_text_alignment_display.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="68" column="56" lean-forward="true" selection-start-line="68" selection-start-column="56" selection-end-line="68" selection-end-column="56" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

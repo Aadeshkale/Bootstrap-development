@@ -24,12 +24,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="4.Float-positions.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="4.Float-positions.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Bootstrap_Completed/4.Float-positions.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
               <caret line="19" column="24" lean-forward="false" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="5.Bootstrap colors.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Bootstrap_Completed/5.Bootstrap colors.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="30" column="26" lean-forward="false" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+              <folding>
+                <element signature="n#style#0;n#span#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -69,6 +81,7 @@
         <option value="$PROJECT_DIR$/Bootstrap_Completed/Bootstrap/3.Text-align.html" />
         <option value="$PROJECT_DIR$/Bootstrap_Completed/3.Text-align.html" />
         <option value="$PROJECT_DIR$/Bootstrap_Completed/4.Float-positions.html" />
+        <option value="$PROJECT_DIR$/Bootstrap_Completed/5.Bootstrap colors.html" />
       </list>
     </option>
   </component>
@@ -162,12 +175,12 @@
       <workItem from="1534425789788" duration="1913000" />
       <workItem from="1534482989843" duration="1118000" />
       <workItem from="1534501541806" duration="5645000" />
-      <workItem from="1534513880320" duration="6763000" />
+      <workItem from="1534513880320" duration="7769000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17593000" />
+    <option name="totallyTimeSpent" value="18599000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -321,6 +334,16 @@
         <state relative-caret-position="204">
           <caret line="19" column="24" lean-forward="false" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap_Completed/5.Bootstrap colors.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="26" lean-forward="false" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

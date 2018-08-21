@@ -24,23 +24,23 @@
         
 
        <!-- CARD WITH IMAGE -->
-        <div style="width:20rem">
+        <div class="card w-25">
             <img src="img/card.jpg" alt="Card image cap">
-            <div>
-                <h4>Card Title</h4>
+            <div class="card-body">
+                <h4 class="card-title">Card Title</h4>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo, quas.</p>
-                 <a href="#">Read More</a>
+                 <a href="#" class="btn btn-success">Read More</a>
             </div>
         </div>
 
         <br><br>
 
         <!-- CARD WITH HEADER -->
-        <div>
-            <div>
+        <div class="card">
+            <div class="card-header bg-teal text-white">
                 My Card
             </div>
-            <div>
+            <div class="card-body">
                 <h4>Card Title</h4>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, perspiciatis.</p>
                 <a href="#">Read More</a>
@@ -50,16 +50,16 @@
         <br><br>
 
         <!-- HEADER, FOOTER, BODY -->
-        <div>
-            <div>
+        <div class="card w-50">
+            <div class="card-header bg-danger text-white">
                 <h3>My Card</h3>
             </div>
-            <div>
+            <div class="card-body bg-light">
                 <h4>Card Title</h4>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, perspiciatis.</p>
-                <a href="#">Read More</a>
+                <a href="#" class="btn btn-secondary">Read More</a>
             </div>
-            <div>
+            <div class="card-footer">
                 2 days ago
             </div>
         </div>
@@ -69,10 +69,10 @@
         <br><br>
 
         <!-- IMAGE OVERLAYS  card-img , card-img-overlay -->
-        <div>
-            <img src="img/card_img.jpg" style="width: auto; height: 200px">
-            <div>
-                <h4>Card title</h4>
+        <div class="card text-dark">
+            <img card-img src="img/card_img.jpg" style="width: auto; height: 200px">
+            <div class="card-body">
+                <h4 class="card-title">Card title</h4>
                 <p>This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                 <p><small>Last updated 3 mins ago</small></p>
             </div>
@@ -81,6 +81,66 @@
         <br><br>
 
          <!-- CARD DECK -->
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-3">
+                        <div class="card text-center">
+                            <div class="card-header bg-primary text-white">
+                                   <div class="row align-items-center">
+                                       <div class="col">
+                                           <i class="fa fa-cart-plus fa-4x"></i>
+                                       </div>
+                                       <div class="col">
+                                           <h3 class="display-3">07</h3>
+                                           <h3>Iteams</h3>
+                                       </div>
+                                   </div>
+                            </div>
+                            <div class="card-footer">
+                                  <h3 class="text-primary">
+                                      View Details <i class="fa fa-arrow-alt-circle-right"></i>
+                                  </h3>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+
+
+
+    <div class="col-md-3">
+        <div class="card text-center">
+            <div class="card-header bg-primary text-white">
+                <div class="row align-items-center">
+                    <div class="col">
+                        <i class="fa fa-cart-plus fa-4x"></i>
+                    </div>
+                    <div class="col">
+                        <h3 class="display-3">07</h3>
+                        <h3>Iteams</h3>
+                    </div>
+                </div>
+            </div>
+            <div class="card-footer">
+                <h3 class="text-primary">
+                    View Details <i class="fa fa-arrow-alt-circle-right"></i>
+                </h3>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+
+
+
+
+
+
 
          <br><br>
     </div><!-- ./container -->

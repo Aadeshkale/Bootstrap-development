@@ -1,47 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="413b592d-6942-4360-9e63-3d26aa8d40c6" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Bootstrap_Completed/Bootstrap/css/addons/datatables.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Bootstrap_Completed/Bootstrap/css/addons/datatables.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Bootstrap_Completed/Bootstrap/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Bootstrap_Completed/Bootstrap/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Bootstrap_Completed/Bootstrap/css/mdb.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Bootstrap_Completed/Bootstrap/css/mdb.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Bootstrap_Completed/Bootstrap/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Bootstrap_Completed/Bootstrap/css/style.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Bootstrap_Completed/Bootstrap/js/addons/datatables.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Bootstrap_Completed/Bootstrap/js/addons/datatables.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Bootstrap_Completed/Bootstrap/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Bootstrap_Completed/Bootstrap/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Bootstrap_Completed/Bootstrap/js/jquery-3.3.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Bootstrap_Completed/Bootstrap/js/mdb.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Bootstrap_Completed/Bootstrap/js/mdb.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Bootstrap_Completed/Bootstrap/js/modules/chart.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Bootstrap_Completed/Bootstrap/js/modules/enhanced-modals.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Bootstrap_Completed/Bootstrap/js/modules/forms-free.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Bootstrap_Completed/Bootstrap/js/modules/jquery.easing.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Bootstrap_Completed/Bootstrap/js/modules/scrolling-navbar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Bootstrap_Completed/Bootstrap/js/modules/velocity.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Bootstrap_Completed/Bootstrap/js/modules/velocity.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Bootstrap_Completed/Bootstrap/js/modules/waves.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Bootstrap_Completed/Bootstrap/js/modules/wow.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Bootstrap_Completed/Bootstrap/js/popper.min.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bootstrap_4_Starter_Template/10_list_groups_badges.html" afterPath="$PROJECT_DIR$/Bootstrap_4_Starter_Template/10_list_groups_badges.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bootstrap_4_Starter_Template/14_tables_pagination.html" afterPath="$PROJECT_DIR$/Bootstrap_4_Starter_Template/14_tables_pagination.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bootstrap_4_Starter_Template/15_cards.html" afterPath="$PROJECT_DIR$/Bootstrap_4_Starter_Template/15_cards.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bootstrap_4_Starter_Template/16_grid_system.html" afterPath="$PROJECT_DIR$/Bootstrap_4_Starter_Template/16_grid_system.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bootstrap_4_Starter_Template/17_grid_alignment.html" afterPath="$PROJECT_DIR$/Bootstrap_4_Starter_Template/17_grid_alignment.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bootstrap_4_Starter_Template/18_flexbox.html" afterPath="$PROJECT_DIR$/Bootstrap_4_Starter_Template/18_flexbox.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bootstrap_4_Starter_Template/20_carousel.html" afterPath="$PROJECT_DIR$/Bootstrap_4_Starter_Template/20_carousel.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bootstrap_4_Starter_Template/21_collapse.html" afterPath="$PROJECT_DIR$/Bootstrap_4_Starter_Template/21_collapse.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bootstrap_4_Starter_Template/24_modals.html" afterPath="$PROJECT_DIR$/Bootstrap_4_Starter_Template/24_modals.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bootstrap_4_Starter_Template/8_buttons.html" afterPath="$PROJECT_DIR$/Bootstrap_4_Starter_Template/8_buttons.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bootstrap_4_Starter_Template/9_navbar.html" afterPath="$PROJECT_DIR$/Bootstrap_4_Starter_Template/9_navbar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bootstrap_Completed/1.hello_world.html" afterPath="$PROJECT_DIR$/Bootstrap_Completed/1.hello_world.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bootstrap_Completed/9.Bootstrap Buttons.html" afterPath="$PROJECT_DIR$/Bootstrap_Completed/9.Bootstrap Buttons.html" />
-    </list>
+    <list default="true" id="413b592d-6942-4360-9e63-3d26aa8d40c6" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -54,31 +14,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="1.hello_world.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Bootstrap_Completed/1.hello_world.html">
+      <file leaf-file-name="17_grid_alignment.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Bootstrap_4_Starter_Template/17_grid_alignment.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="26" />
+            <state relative-caret-position="152">
+              <caret line="96" column="15" lean-forward="false" selection-start-line="96" selection-start-column="15" selection-end-line="96" selection-end-column="15" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="11.Gridsystem.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Bootstrap_Completed/11.Gridsystem.html">
+      <file leaf-file-name="12.Grid alignment.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Bootstrap_Completed/12.Grid alignment.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
-              <caret line="54" column="0" lean-forward="true" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="16_grid_system.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Bootstrap_4_Starter_Template/16_grid_system.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="56" column="23" lean-forward="false" selection-start-line="56" selection-start-column="23" selection-end-line="56" selection-end-column="23" />
+            <state relative-caret-position="816">
+              <caret line="96" column="47" lean-forward="false" selection-start-line="96" selection-start-column="47" selection-end-line="96" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -142,6 +92,7 @@
         <option value="$PROJECT_DIR$/Carnival/Register.html" />
         <option value="$PROJECT_DIR$/Bootstrap_Completed/1.hello_world.html" />
         <option value="$PROJECT_DIR$/Bootstrap_Completed/11.Gridsystem.html" />
+        <option value="$PROJECT_DIR$/Bootstrap_Completed/12.Grid alignment.html" />
       </list>
     </option>
   </component>
@@ -183,6 +134,11 @@
             <path>
               <item name="Bootstrap_4_Development" type="b2602c69:ProjectViewProjectNode" />
               <item name="Bootstrap_4_Development" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bootstrap_4_Development" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bootstrap_4_Development" type="462c0819:PsiDirectoryNode" />
+              <item name="Bootstrap_Completed" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -246,17 +202,18 @@
       <workItem from="1534669489167" duration="4154000" />
       <workItem from="1534761540853" duration="5516000" />
       <workItem from="1534847854707" duration="5001000" />
-      <workItem from="1534858417836" duration="9625000" />
+      <workItem from="1534858417836" duration="11505000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66691000" />
+    <option name="totallyTimeSpent" value="68571000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2544643" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2544643" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -285,13 +242,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Bootstrap_Completed/2.Bootstrap_typography.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Bootstrap_4_Starter_Template/8_buttons.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="884">
@@ -530,14 +480,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Bootstrap_4_Starter_Template/17_grid_alignment.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="888">
-          <caret line="135" column="66" lean-forward="false" selection-start-line="135" selection-start-column="66" selection-end-line="135" selection-end-column="66" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Bootstrap_4_Starter_Template/1_basic_typography.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="424">
@@ -580,14 +522,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Bootstrap_Completed/1.hello_world.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Carnival/Register.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="356">
@@ -612,10 +546,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap_Completed/1.hello_world.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Bootstrap_Completed/11.Gridsystem.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="54" column="0" lean-forward="true" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+        <state relative-caret-position="85">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="7" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap_4_Starter_Template/17_grid_alignment.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="96" column="15" lean-forward="false" selection-start-line="96" selection-start-column="15" selection-end-line="96" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap_Completed/12.Grid alignment.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="96" column="47" lean-forward="false" selection-start-line="96" selection-start-column="47" selection-end-line="96" selection-end-column="47" />
           <folding />
         </state>
       </provider>
